@@ -1,1 +1,2 @@
 # my_ajs_homework_nicknames
+[![CI Pipeline](https://github.com/Jeyhun1979/my_ajs_homework_nicknames/actions/workflows/main.yml/badge.svg)](https://github.com/Jeyhun1979/my_ajs_homework_nicknames/actions/workflows/main.yml)
